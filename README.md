@@ -8,7 +8,7 @@
 I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me and I am on love with home automation. 
 </br>
 
-#### Latest YouTube Videos @ [WeArGenius](http://youtube.com/weargenius):-
+#### Latest YouTube Videos @ [WeArGenius](http://youtube.com/weargenius) :-
 
 <!-- YOUTUBE:START -->
 - [OpenHAB 3 (In Dev. , Yet to Release) Firstlook | WGClips #4](https://www.youtube.com/watch?v=PtEa8rtGb68)
@@ -18,7 +18,8 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 - [An ESP32 Energy Meter w/ OpenHAB using MQTT | OpenHAB #5](https://www.youtube.com/watch?v=KvIALruyrN4)
 <!-- YOUTUBE:END -->
 </br>
-#### Latest Blog posts @ [WeArGenius](http://weargenius.in/):-
+
+#### Latest Blog posts @ [WeArGenius](http://weargenius.in/) :-
 
 <!-- BLOG-POST-LIST:START -->
 - [DHT12 Sensor Interfacing with Linkit Smart 7688 Duo using Python/Arduino](https://www.weargenius.in/dht12-sensor-interfacing-with-linkit-smart-7688-duo-using-python-arduino/)
@@ -29,7 +30,7 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 <!-- BLOG-POST-LIST:END -->
 
 
-#### Latest SBCs added to [SBCFinder](https://sbcfinder.com/home):-
+#### Latest SBCs added to [SBCFinder](https://sbcfinder.com/home) :-
 
 <!-- SBCFINDER:START -->
 <!-- SBCFINDER:END -->
