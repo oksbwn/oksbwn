@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest SBCs added to SBCFinder
 on:
   schedule: # Run workflow automatically
     - cron: '0 * * * *' # Runs every hour, on the hour
@@ -11,5 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name:"SBCFINDER"
+          comment_tag_name: "SBCFINDER"
           feed_list: "https://sbcfinder.com/feeds.php"
