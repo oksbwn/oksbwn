@@ -38,9 +38,3 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 - [Rock Pi E](https://sbcfinder.com/rockpie)
 - [ODROID N2 Plus](https://sbcfinder.com/odroidnplus)
 <!-- SBCFINDER:END -->
-
-### ⚡ Github activities
-
-<!--START_SECTION:activity-->
-
-
