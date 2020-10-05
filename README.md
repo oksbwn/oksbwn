@@ -10,7 +10,12 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 
 ### Latest YouTube Videoson Youtube
 
+### Latest Blog posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+</br>
+</br>
 ### ⚡ Github activities
 
 <!--START_SECTION:activity-->
