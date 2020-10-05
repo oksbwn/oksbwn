@@ -7,7 +7,7 @@
 
 I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me and I am on love with home automation. 
 
-</br>
+
 
 #### Latest YouTube Videos @ [WeArGenius](http://youtube.com/weargenius) :-
 
@@ -19,8 +19,6 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 - [An ESP32 Energy Meter w/ OpenHAB using MQTT | OpenHAB #5](https://www.youtube.com/watch?v=KvIALruyrN4)
 <!-- YOUTUBE:END -->
 
-</br>
-
 #### Latest Blog posts @ [WeArGenius](http://weargenius.in/) :-
 
 <!-- BLOG-POST-LIST:START -->
@@ -30,8 +28,6 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 - [Automatic Backup of my Home Automation System (OpenHAB, InfluxDB, Grafana, Node-RED, MonogoDB)](https://www.weargenius.in/automatic-backup-of-my-home-automation-system/)
 - [Raspberry Pi as Torrent Machine](https://www.weargenius.in/raspberry-pi-as-torrent-machine/)
 <!-- BLOG-POST-LIST:END -->
-
-</br>
 
 #### Latest SBCs added to [SBCFinder](https://sbcfinder.com/home) :-
 
