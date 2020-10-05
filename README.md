@@ -11,11 +11,11 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 ### Latest YouTube Videos:-
 
 <!-- YOUTUBE:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [Microsoft Student Partners (Ambassadors) – Geek is the new rockstar](https://www.gautamkrishnar.com/microsoft-student-partners/)
+- [OpenHAB 3 (In Dev. , Yet to Release) Firstlook | WGClips #4](https://www.youtube.com/watch?v=PtEa8rtGb68)
+- [Portainer on Raspberry Pi to easily manage Docker Containers | WGClips #3](https://www.youtube.com/watch?v=b1z2umPgoOI)
+- [Setting Up Docker with Raspberry Pi | WGClips #2](https://www.youtube.com/watch?v=Gk0vLz8rH40)
+- [ReSpeaker 2 Mics HAT LEDs APA102  interaction from Picroft Raspberry Pi | WGClips #1](https://www.youtube.com/watch?v=z_rwj-e-lSA)
+- [An ESP32 Energy Meter w/ OpenHAB using MQTT | OpenHAB #5](https://www.youtube.com/watch?v=KvIALruyrN4)
 <!-- YOUTUBE:END -->
 
 ### Latest Blog posts:-
