@@ -13,6 +13,11 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 ### Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DHT12 Sensor Interfacing with Linkit Smart 7688 Duo using Python/Arduino](https://www.weargenius.in/dht12-sensor-interfacing-with-linkit-smart-7688-duo-using-python-arduino/)
+- [Setting up NextCloud on Raspberry Pi](https://www.weargenius.in/setting-up-nextcloud-on-raspberry-pi/)
+- [LockDown PC based on availability of Bluetooth Device](https://www.weargenius.in/lock-pc-using-mobile-bluetooth/)
+- [Automatic Backup of my Home Automation System (OpenHAB, InfluxDB, Grafana, Node-RED, MonogoDB)](https://www.weargenius.in/automatic-backup-of-my-home-automation-system/)
+- [Raspberry Pi as Torrent Machine](https://www.weargenius.in/raspberry-pi-as-torrent-machine/)
 <!-- BLOG-POST-LIST:END -->
 </br>
 </br>
