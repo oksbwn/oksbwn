@@ -8,9 +8,13 @@
 I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me and I am on love with home automation. 
 </br>
 
-### Latest YouTube Videoson Youtube
+### Latest YouTube Videos:-
 
-### Latest Blog posts
+<!-- YOUTUBE:START -->
+
+<!-- YOUTUBE:END -->
+
+### Latest Blog posts:-
 
 <!-- BLOG-POST-LIST:START -->
 - [DHT12 Sensor Interfacing with Linkit Smart 7688 Duo using Python/Arduino](https://www.weargenius.in/dht12-sensor-interfacing-with-linkit-smart-7688-duo-using-python-arduino/)
