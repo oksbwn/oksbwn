@@ -12,11 +12,11 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 #### Latest YouTube Videos @ [WeArGenius](http://youtube.com/weargenius) :-
 
 <!-- YOUTUBE:START -->
+- [Mosquitto MQTT Broker installation w/  Openhabian](https://www.youtube.com/watch?v=S-fwUhT67GE)
 - [TTGO ESP32 LoRaWAN OTAA Method Example](https://www.youtube.com/watch?v=1Lz7mjkxEdE)
 - [MQTT With OpenHAB 2  | OpenHAB #6](https://www.youtube.com/watch?v=uZVAL4kurXE)
 - [OpenHAB 3 (In Dev. , Yet to Release) Firstlook | WGClips #4](https://www.youtube.com/watch?v=PtEa8rtGb68)
 - [Portainer on Raspberry Pi to easily manage Docker Containers | WGClips #3](https://www.youtube.com/watch?v=b1z2umPgoOI)
-- [Setting Up Docker with Raspberry Pi | WGClips #2](https://www.youtube.com/watch?v=Gk0vLz8rH40)
 <!-- YOUTUBE:END -->
 
 #### Latest Blog posts @ [WeArGenius](http://weargenius.in/) :-
