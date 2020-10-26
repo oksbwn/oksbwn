@@ -5,7 +5,7 @@
 
 #### Hi there 👋
 
-I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me and I am on love with home automation. 
+I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me and I am in love with home automation. 
 
 
 
