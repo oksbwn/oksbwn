@@ -32,7 +32,7 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 #### Latest SBCs added to [SBCFinder](https://sbcfinder.com/home) :-
 
 <!-- SBCFINDER:START -->
-- [Orange Pi Zero 2](https://sbcfinder.com/orangepizero)
+- [Orange Pi Zero 2](https://sbcfinder.com/orangepizerotwo)
 - [Raspberry Pi Compute Module 4](https://sbcfinder.com/raspberrypicomputemodule)
 - [Rock Pi X](https://sbcfinder.com/rockpix)
 - [XPI_3128](https://sbcfinder.com/xpi)
