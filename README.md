@@ -12,11 +12,11 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 #### Latest YouTube Videos @ [WeArGenius](http://youtube.com/weargenius) :-
 
 <!-- YOUTUBE:START -->
+- [MQTT Client in Python Linkit 7688 Example](https://www.youtube.com/watch?v=q-_HdHUAphw)
 - [Running Python scripts on boot, OpenWRT OS InitScripts](https://www.youtube.com/watch?v=w8oAwG2lioM)
 - [Adding Network Share to Raspberry Pi](https://www.youtube.com/watch?v=sHa_4AVUeps)
 - [PZEM004T Energy Meter Module interfacing with ESP32 Arduino](https://www.youtube.com/watch?v=ut2_LaBRwVA)
 - [TTN  and ThingSpeak Integration](https://www.youtube.com/watch?v=AiIg9-BreBo)
-- [DHT12 Sensor Interfacing with Linkit Smart 7688 Duo using Python Arduino](https://www.youtube.com/watch?v=P3jD0hri3eo)
 <!-- YOUTUBE:END -->
 
 #### Latest Blog posts @ [WeArGenius](http://weargenius.in/) :-
