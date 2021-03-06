@@ -12,11 +12,11 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 #### Latest YouTube Videos @ [WeArGenius](http://youtube.com/weargenius) :-
 
 <!-- YOUTUBE:START -->
+- [Automated Home Automation System OpenHAB influxDB Node RED Grafana MongoDB Backup](https://www.youtube.com/watch?v=T8YWnm8ow9s)
 - [Updating Pycom FiPy Firmware](https://www.youtube.com/watch?v=n4vqhp7_wW0)
 - [Linkit 7688 DUO Updating Arduino Boot loader using SSH SCP](https://www.youtube.com/watch?v=DVj4f2X9c64)
 - [TTGO ESP32 LoRa Module OLED Display Interaction](https://www.youtube.com/watch?v=Y6GhAzgK7f8)
 - [Getting Started with FiPy PyMakr and VS Code](https://www.youtube.com/watch?v=kecIftZdzzY)
-- [MQTT Client in Python Linkit 7688 Example](https://www.youtube.com/watch?v=q-_HdHUAphw)
 <!-- YOUTUBE:END -->
 
 #### Latest Blog posts @ [WeArGenius](http://weargenius.in/) :-
