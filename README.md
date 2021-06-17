@@ -32,11 +32,11 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 #### Latest SBCs added to [SBCFinder](https://sbcfinder.com/home) :-
 
 <!-- SBCFINDER:START -->
+- [Radxa Zero](https://sbcfinder.com/radxazero)
 - [Banana Pi M2 Pro](https://sbcfinder.com/bananapim2pro)
 - [ROC-RK3566-PC](https://sbcfinder.com/rocrkpc)
 - [Quartz64 B](https://sbcfinder.com/quartzb)
 - [MaaXBoard Nano](https://sbcfinder.com/maaxboardnano)
-- [Orange Pi Zero 2](https://sbcfinder.com/orangepizerotwo)
 <!-- SBCFINDER:END -->
 
 #### Catch us on :-
