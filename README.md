@@ -62,9 +62,6 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-
-
-[![Bikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksbwn)](https://github.com/anuraghazra/github-readme-stats)
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
@@ -73,4 +70,14 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 [4]:https://weargenius.tumblr.com/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+[![Bikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksbwn&count_private=true&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oksbwn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Am currenlty working on
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oksbwn&repo=kafka-explorer)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
