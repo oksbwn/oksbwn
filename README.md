@@ -3,13 +3,11 @@
 [![Website](https://img.shields.io/website?down_message=Offline&label=SBCFinder&logo=cloud&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsbcfinder.com)](https://sbcfinder.com)
 [![Website](https://img.shields.io/website?down_message=Offline&label=Blog&logo=cloud&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwglabz.in)](https://wglabz.in)
 
-#### Hi there 👋
+#### Hello 🙏
 
-I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me and I am in love with home automation. 
+Thanks for checking out my profile. A little about me, since I remeber tinkering around stuffs is osmething I never got bored of. I am right now working as Senior Developer in ThingWorx for a renwoned IT company in India :india:. I have worked on mumerous projects around IoT.
 
-
-
-#### Latest YouTube Videos @ [WeArGenius](http://youtube.com/weargenius) :-
+Apart from my professional life, I do a lot of stuffs in my spare time and I try to publish those as videos 🎞️ to YouTube, you can find my channel here [WGLabz](http://youtube.com/weargenius). Some of the latest videos I have uploaded are,
 
 <!-- YOUTUBE:START -->
 - [Automated Home Automation System OpenHAB influxDB Node RED Grafana MongoDB Backup](https://www.youtube.com/watch?v=T8YWnm8ow9s)
@@ -19,17 +17,7 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 - [Getting Started with FiPy PyMakr and VS Code](https://www.youtube.com/watch?v=kecIftZdzzY)
 <!-- YOUTUBE:END -->
 
-#### Latest Blog posts @ [WeArGenius](http://weargenius.in/) :-
-
-<!-- BLOG-POST-LIST:START -->
-- [DHT12 Sensor Interfacing with Linkit Smart 7688 Duo using Python/Arduino](https://www.weargenius.in/dht12-sensor-interfacing-with-linkit-smart-7688-duo-using-python-arduino/)
-- [Setting up NextCloud on Raspberry Pi](https://www.weargenius.in/setting-up-nextcloud-on-raspberry-pi/)
-- [LockDown PC based on availability of Bluetooth Device](https://www.weargenius.in/lock-pc-using-mobile-bluetooth/)
-- [Automatic Backup of my Home Automation System (OpenHAB, InfluxDB, Grafana, Node-RED, MonogoDB)](https://www.weargenius.in/automatic-backup-of-my-home-automation-system/)
-- [Raspberry Pi as Torrent Machine](https://www.weargenius.in/raspberry-pi-as-torrent-machine/)
-<!-- BLOG-POST-LIST:END -->
-
-#### Latest SBCs added to [SBCFinder](https://sbcfinder.com/home) :-
+I also maintain a separate website for Single Board Computers like the Raspberry Pi. The websote lets the user compare different SBCs.You can check out the site here  @ [SBCFinder](https://sbcfinder.com/home). Some of the latest SBCs I have added are,
 
 <!-- SBCFINDER:START -->
 - [Tinker Board 2](https://sbcfinder.com/tinkerboardtwo)
@@ -39,43 +27,13 @@ I'm Bikash,  I am a Maker/Youtuber and blogger. Technology always fascinates me 
 - [Quartz64 B](https://sbcfinder.com/quartzb)
 <!-- SBCFINDER:END -->
 
-#### Catch us on :-
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][4.1]][4]
-
-
-<!-- links to social media icons -->
-<!-- no need to change these -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
-[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: https://twitter.com/wglabz
-[2]: https://www.facebook.com/wglabz
-[4]:https://weargenius.tumblr.com/
-
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+Some stats,
 
 [![Bikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=oksbwn&count_private=true&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oksbwn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Am currenlty working on
+I am currenlty working on
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oksbwn&repo=kafka-explorer)](https://github.com/anuraghazra/github-readme-stats)
 
