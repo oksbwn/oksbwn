@@ -1,9 +1,15 @@
 [![https://img.shields.io/github/followers/oksbwn?label=Follow%20Us&style=for-the-badge](https://img.shields.io/github/followers/oksbwn?label=Follow%20Me&logo=github&style=for-the-badge)](https://github.com/users/follow?target=oksbwn)
-#### Hello 🙏
 
-Thanks for checking out my profile. A little about me, since I remeber tinkering around stuffs is osmething I never got bored of. I am right now working as Senior Developer in ThingWorx for a renwoned IT company in India :india:. I have worked on mumerous projects around IoT.
+👋 **Thanks for checking out my profile!**
 
-Apart from my professional life, I do a lot of stuffs in my spare time and I try to publish those as videos 🎞️ to YouTube, you can find my channel here [WGLabz](http://youtube.com/weargenius). Some of the latest videos I have uploaded are,
+🛠️ **About Me:**
+I've always found joy in tinkering with various things, and that passion has never let me get bored. Currently, I'm serving as a Senior Developer in ThingWorx for a renowned IT company based in India 🇮🇳. My professional journey revolves around working on numerous projects in the exciting realm of IoT.
+
+🌐 **YouTube Channel:**
+Beyond my professional life, I invest a significant amount of time in personal projects, and I love sharing them with the world through videos 🎞️ on [YouTube](http://youtube.com/weargenius). You can explore my creations and experiments on my channel, [WGLabz](http://youtube.com/weargenius).
+
+📹 **Latest Videos:**
+Here are some of my recent uploads:
 
 <!-- YOUTUBE:START -->
 - [Automated Home Automation System OpenHAB influxDB Node RED Grafana MongoDB Backup](https://www.youtube.com/watch?v=T8YWnm8ow9s)
@@ -13,15 +19,8 @@ Apart from my professional life, I do a lot of stuffs in my spare time and I try
 - [Getting Started with FiPy PyMakr and VS Code](https://www.youtube.com/watch?v=kecIftZdzzY)
 <!-- YOUTUBE:END -->
 
-I also maintain a separate website for Single Board Computers like the Raspberry Pi. The websote lets the user compare different SBCs.You can check out the site here  @ [SBCFinder](https://sbcfinder.com/home). Some of the latest SBCs I have added are,
 
-<!-- SBCFINDER:START -->
-- [Tinker Board 2](https://sbcfinder.com/tinkerboardtwo)
-- [Radxa Zero](https://sbcfinder.com/radxazero)
-- [Banana Pi M2 Pro](https://sbcfinder.com/bananapim2pro)
-- [ROC-RK3566-PC](https://sbcfinder.com/rocrkpc)
-- [Quartz64 B](https://sbcfinder.com/quartzb)
-<!-- SBCFINDER:END -->
+Feel free to check them out and let me know your thoughts!
 
 Some stats,
 
