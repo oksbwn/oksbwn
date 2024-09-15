@@ -3,14 +3,10 @@
 Welcome to my GitHub profile! I'm a passionate IoT Developer, Embedded Systems Engineer, and open-source enthusiast with a strong interest in automation, Docker containers, and home networking. I love working on innovative projects that connect the digital and physical worlds, empowering people to manage and automate their environments.I've always found joy in tinkering with various things, and that passion has never let me get bored. Currently, I'm serving as a Senior Developer in ThingWorx for a renowned IT company based in India 🇮🇳. My professional journey revolves around working on numerous projects in the exciting realm of IoT.
 
 
-🌍 I'm based in Bengaluru, INDIA
-
-🚀 Currently working on an Eclipse plugin to upload ThingWorx Extensions from the IDE
-
-👨‍💻 Open-source contributor and educator
-
-🎓 Content creator at WGLabz
-
+🌍 I'm based in Bengaluru, INDIA <br />
+🚀 Currently working on an Eclipse plugin to upload ThingWorx Extensions from the IDE <br />
+👨‍💻 Open-source contributor and educator <br />
+🎓 Content creator at WGLabz <br />
 💬 Ask me about Raspberry Pi, ThingWorx and IoT Systems
 
 Beyond my professional life, I invest a significant amount of time in personal projects, and I love sharing them with the world through videos 🎞️ on [YouTube](http://youtube.com/weargenius). You can explore my creations and experiments on my channel, [WGLabz](http://youtube.com/weargenius).
